@@ -1,0 +1,14 @@
+C:\Users\irofr\Projects\sms46elks\FortuneSmsApp\bin\Debug\net8.0\FortuneSmsApp.exe
+C:\Users\irofr\Projects\sms46elks\FortuneSmsApp\bin\Debug\net8.0\FortuneSmsApp.deps.json
+C:\Users\irofr\Projects\sms46elks\FortuneSmsApp\bin\Debug\net8.0\FortuneSmsApp.runtimeconfig.json
+C:\Users\irofr\Projects\sms46elks\FortuneSmsApp\bin\Debug\net8.0\FortuneSmsApp.dll
+C:\Users\irofr\Projects\sms46elks\FortuneSmsApp\bin\Debug\net8.0\FortuneSmsApp.pdb
+C:\Users\irofr\Projects\sms46elks\FortuneSmsApp\obj\Debug\net8.0\FortuneSmsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irofr\Projects\sms46elks\FortuneSmsApp\obj\Debug\net8.0\FortuneSmsApp.AssemblyInfoInputs.cache
+C:\Users\irofr\Projects\sms46elks\FortuneSmsApp\obj\Debug\net8.0\FortuneSmsApp.AssemblyInfo.cs
+C:\Users\irofr\Projects\sms46elks\FortuneSmsApp\obj\Debug\net8.0\FortuneSmsApp.csproj.CoreCompileInputs.cache
+C:\Users\irofr\Projects\sms46elks\FortuneSmsApp\obj\Debug\net8.0\FortuneSmsApp.dll
+C:\Users\irofr\Projects\sms46elks\FortuneSmsApp\obj\Debug\net8.0\refint\FortuneSmsApp.dll
+C:\Users\irofr\Projects\sms46elks\FortuneSmsApp\obj\Debug\net8.0\FortuneSmsApp.pdb
+C:\Users\irofr\Projects\sms46elks\FortuneSmsApp\obj\Debug\net8.0\FortuneSmsApp.genruntimeconfig.cache
+C:\Users\irofr\Projects\sms46elks\FortuneSmsApp\obj\Debug\net8.0\ref\FortuneSmsApp.dll
